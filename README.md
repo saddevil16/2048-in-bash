@@ -1,5 +1,7 @@
 # 2048-in-bash
 
+![2048 in the terminal](demo.gif)
+
 A terminal version of 2048 written as a single bash script. No dependencies.
 
 The game doesn't end when you reach 2048. You can keep merging to 4096, 8192 and higher. It only ends when the board is full and no moves are left.
