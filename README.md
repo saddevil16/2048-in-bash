@@ -27,6 +27,7 @@ Bash 5 or newer is recommended. On bash 5 the slide animation always takes the s
 
 ```
 git clone https://github.com/saddevil16/2048-in-bash.git
+cd 2048-in-bash
 bash 2048.sh
 ```
 
